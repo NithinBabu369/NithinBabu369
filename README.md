@@ -1,6 +1,6 @@
 
 # Nithin Babu
-### AI Engineer | Python Backend Developer
+### AI Engineer | Python Developer
 
 Building production-ready AI agents, RAG systems, and scalable Python backends that solve real-world problems.
 
