@@ -1,35 +1,74 @@
-<h1 align="center">Hi there, I'm Nithin Babu 👋</h1>
-<p align="center">
-<b>AI Engineer & Python Backend Developer</b><br/>
-Building autonomous multi-agent systems, production RAG pipelines, and robust backend automation.
-</p>
-<p align="center">
-<a href="https://nithinbabu.pages.dev/">🌐 Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/nithinbabu">💼 LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:Nithin69BR@gmail.com">✉️ Email</a>
-</p>
-🚀 What I Build
-Autonomous AI Agents & Workflows: Engineering self-directed agentic systems with LangChain, LangGraph, and headless browser automation (Playwright) for compliance, research, and grant monitoring.
-Production RAG Systems: Architecting high-precision retrieval-augmented generation pipelines backed by dense vector search, hybrid ranking, and automated evaluation suites (LLM-as-a-Judge, ROUGE).
-Robust Backend Automation: Designing scalable, resilient APIs and scheduled background workers with Django, FastAPI, PostgreSQL, Docker, and GitHub Actions.
-🛠️ Featured Engineering
-Project	Problem & Solution	Architecture & Stack	Measurable Impact
-Agentic Grant Watchdog	Autonomous multi-portal grant discovery and compliance evaluation system.	Python, Playwright, LLMs, LangGraph	Eliminated manual multi-portal checking across complex institutional grant deadlines.
-Multi-Doc RAG Research Assistant	Scalable document ingestion and contextual retrieval pipeline with automated evaluation.	LangChain, Vector DB, LLMs, Docker REST APIs	Production-evaluated retrieval accuracy using automated LLM-as-a-Judge benchmarks.
-Automated Dunning & Invoice Engine	Scheduled financial follow-up and invoice tracking workflow for document clearing services.	Django, PostgreSQL, Celery, GitHub Actions	Cut manual administrative follow-up time by 40% at Wadi Al Ain.
-💻 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-233038?style=for-the-badge&logo=graph&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nithin69BR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nithin's GitHub Stats" />
-</p>
+
+# Nithin Babu
+### AI Engineer | Python Backend Developer
+
+Building production-ready AI agents, RAG systems, and scalable Python backends that solve real-world problems.
+
+[Portfolio](https://nithinbabu.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/nithin-babu/) · [Email](mailto:nithin@example.com)
+
+---
+
+## What I Build
+
+- **AI Agents & Automation** — Autonomous agents for web intelligence, opportunity discovery, compliance monitoring, and business workflows.
+- **RAG & LLM Systems** — Multi-document retrieval pipelines, vector search, LLM evaluation, and context-aware AI applications.
+- **Backend Engineering** — Django and FastAPI services, REST APIs, PostgreSQL workflows, and automated deployment pipelines.
+
+## Featured Engineering
+
+| Agentic Grant Watchdog | Multi-Document RAG Assistant |
+|:---|:---|
+| **Problem:** Manual grant discovery and compliance monitoring across multiple portals. | **Problem:** Retrieving and synthesizing reliable information from large document collections. |
+| **Architecture:** Python + Playwright + LLM-powered agent workflows. | **Architecture:** RAG + Vector Search + LLMs + Dockerized REST APIs. |
+| **Focus:** Autonomous discovery, eligibility evaluation, deadline tracking, and verification. | **Focus:** Context-aware retrieval, source-grounded responses, and automated evaluation. |
+
+| Automated Dunning & Invoice Engine | Engineering & Evaluation |
+|:---|:---|
+| **Problem:** Repetitive invoice tracking and manual payment follow-ups. | **Problem:** Ensuring AI-generated responses are evaluated beyond subjective inspection. |
+| **Architecture:** Django + PostgreSQL + Scheduled GitHub Actions workflows. | **Architecture:** LLM-as-a-Judge + BLEU + ROUGE + automated evaluation pipelines. |
+| **Impact:** Reduced manual follow-up effort by **40%** through automated 3-stage dunning workflows. | **Focus:** Retrieval quality, response evaluation, and systematic testing. |
+
+## Experience
+
+**Software Developer — Wadi Al Ain Documents Clearing Services**
+- Engineered automated invoice tracking and 3-stage payment reminder workflows.
+- Reduced manual follow-up effort by **40%**.
+- Developed an agentic Grant Deadline & Compliance Watchdog using Python, Playwright, and LLMs.
+
+**Data Science Associate — Ladder7 Nextstep Solutions**
+- Developed a multi-document RAG research assistant using vector search and LLMs.
+- Implemented automated evaluation pipelines using LLM-as-a-Judge, BLEU, and ROUGE.
+
+## Tech Stack
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-181818?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-181818?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-181818?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-181818?style=flat-square&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-181818?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLM_Applications-181818?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-181818?style=flat-square)
+
+**Automation & Infrastructure**
+
+![Playwright](https://img.shields.io/badge/Playwright-181818?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181818?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Let's Connect
+
+Interested in building intelligent systems, practical AI applications, and scalable backend solutions.
+
+**Open to opportunities in AI Engineering, Data Science, and Python Backend Development.**
+
+[Portfolio](https://nithinbabu.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/nithin-babu/) · [Email Me](mailto:nithin@example.com)
